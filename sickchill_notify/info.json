@@ -1,0 +1,9 @@
+{
+    "id": "sickchill_notify",
+    "name": "Sickchill Notify",
+    "author": "Retsu8",
+    "version": "0.0.1",
+    "tags": "sickchill,copy,postprocessor",
+    "description": "Notify sickchill of changes to files and update the library.",
+    "icon": "https://i.postimg.cc/K8MZ2pQC/death-holding-sickle.png"
+}
